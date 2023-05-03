@@ -115,7 +115,7 @@ const members = {
     netBill:140,
     mealRate:44.5,
     serviceBill:30,
-    monthName:"May-22"
+    monthName:"May-23"
 };
 const button        = document.getElementById("submit-button");
 const number        = document.getElementById("number-checker");
