@@ -5,7 +5,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:3,
+        totalMeal:5,
         Payable:0,
         paid:0,
         paid_in_bazar:0
@@ -16,7 +16,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:6,
+        totalMeal:8,
         Payable:0,
         paid:0,
         paid_in_bazar:543
@@ -27,7 +27,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:3,
+        totalMeal:4,
         Payable:433,
         paid:0,
         paid_in_bazar:0
@@ -38,7 +38,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:3,
+        totalMeal:4,
         Payable:1322,
         paid:0,
         paid_in_bazar:0
@@ -72,7 +72,7 @@ const members = {
         othersCost:2500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:6,
+        totalMeal:8,
         Payable:0,
         paid:0,
         paid_in_bazar:913
@@ -83,7 +83,7 @@ const members = {
         othersCost:500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:6,
+        totalMeal:8,
         Payable:0,
         paid:0,
         paid_in_bazar:1737
@@ -94,12 +94,12 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:6,
+        totalMeal:8,
         Payable:199,
         paid:0,
         paid_in_bazar:0
     },
-    "01821245430":{
+    "01821245430e":{
         name:"Samiul Islam",
         stayCost:4000,
         othersCost:500,
@@ -113,7 +113,7 @@ const members = {
 
     khalaBill:400,
     netBill:140,
-    mealRate:44.5,
+    mealRate:55.5,
     serviceBill:30,
     monthName:"May-23"
 };
