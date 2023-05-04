@@ -6,7 +6,7 @@ const members = {
         getMoney:0,
         dueMoney:0,
         totalMeal:5,
-        Payable:0,
+        Payable:400,
         paid:0,
         paid_in_bazar:0
     },
@@ -233,7 +233,7 @@ function numberChecker() {
         (phoneNumber === "01738393696e") ||
         (phoneNumber === "01794942131e") ||
         (phoneNumber === "01640454889") ||
-        (phoneNumber === "01925315230e") ||
+        (phoneNumber === "01925315230") ||
         (phoneNumber === "01922635500e") ||
         (phoneNumber === "01400709854")
     ){
