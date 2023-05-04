@@ -39,7 +39,7 @@ const members = {
         getMoney:0,
         dueMoney:0,
         totalMeal:4,
-        Payable:1322,
+        Payable:0,
         paid:0,
         paid_in_bazar:0
     },
@@ -227,7 +227,7 @@ function numberChecker() {
     phoneNumber = number.value;
     if (
         (phoneNumber === "01814843266") ||
-        (phoneNumber === "01922362569e") ||
+        (phoneNumber === "01922362569") ||
         (phoneNumber === "01532023080") ||
         (phoneNumber === "01821245430") ||
         (phoneNumber === "01738393696e") ||
