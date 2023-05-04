@@ -41,7 +41,7 @@ const members = {
         totalMeal:4,
         Payable:0,
         paid:0,
-        paid_in_bazar:0
+        paid_in_bazar:179
     },
     "01738393696":{
         name:"Amrul Qais",
