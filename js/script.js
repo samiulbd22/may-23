@@ -5,9 +5,9 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:5,
-        Payable:400,
-        paid:0,
+        totalMeal:9,
+        Payable:2770,
+        paid:4500,
         paid_in_bazar:0
     },
     "01640454889":{
@@ -16,7 +16,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:8,
+        totalMeal:14,
         Payable:0,
         paid:0,
         paid_in_bazar:543
@@ -27,7 +27,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:4,
+        totalMeal:8,
         Payable:433,
         paid:0,
         paid_in_bazar:0
@@ -38,7 +38,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:4,
+        totalMeal:7,
         Payable:0,
         paid:0,
         paid_in_bazar:179
@@ -72,7 +72,7 @@ const members = {
         othersCost:2500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:8,
+        totalMeal:14,
         Payable:0,
         paid:0,
         paid_in_bazar:913
@@ -83,9 +83,9 @@ const members = {
         othersCost:500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:8,
-        Payable:0,
-        paid:0,
+        totalMeal:14,
+        Payable:3570,
+        paid:3000,
         paid_in_bazar:1737
     },
     "01922635500":{
@@ -94,7 +94,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:8,
+        totalMeal:13,
         Payable:199,
         paid:0,
         paid_in_bazar:0
