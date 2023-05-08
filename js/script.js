@@ -5,7 +5,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:9,
+        totalMeal:10,
         Payable:2770,
         paid:4500,
         paid_in_bazar:0
@@ -16,7 +16,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:14,
+        totalMeal:16,
         Payable:0,
         paid:0,
         paid_in_bazar:543
@@ -27,7 +27,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:8,
+        totalMeal:9,
         Payable:433,
         paid:0,
         paid_in_bazar:0
@@ -38,7 +38,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:7,
+        totalMeal:8,
         Payable:0,
         paid:0,
         paid_in_bazar:179
@@ -49,7 +49,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:3,
+        totalMeal:6,
         Payable:215,
         paid:0,
         paid_in_bazar:0
@@ -72,7 +72,7 @@ const members = {
         othersCost:2500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:14,
+        totalMeal:16,
         Payable:0,
         paid:0,
         paid_in_bazar:913
@@ -83,7 +83,7 @@ const members = {
         othersCost:500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:14,
+        totalMeal:16,
         Payable:3570,
         paid:3000,
         paid_in_bazar:1737
@@ -94,7 +94,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:13,
+        totalMeal:15,
         Payable:199,
         paid:0,
         paid_in_bazar:0
@@ -230,11 +230,11 @@ function numberChecker() {
         (phoneNumber === "01922362569") ||
         (phoneNumber === "01532023080") ||
         (phoneNumber === "01821245430") ||
-        (phoneNumber === "01738393696e") ||
-        (phoneNumber === "01794942131e") ||
+        (phoneNumber === "01738393696") ||
+        (phoneNumber === "01794942131") ||
         (phoneNumber === "01640454889") ||
         (phoneNumber === "01925315230") ||
-        (phoneNumber === "01922635500e") ||
+        (phoneNumber === "01922635500") ||
         (phoneNumber === "01400709854")
     ){
         button.style.opacity ="1";
