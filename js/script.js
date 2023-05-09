@@ -466,9 +466,12 @@ function previousListShowMe() {
 }
 
 const meal_get_money = document.getElementsByClassName("meal_get_money");
-const getContent = meal_get_money.innerText;
-if(getContent === 0){
- meal_get_money.style.color = "red";
+;
+for(let i = 0; i < meal_get_money.length; i++ ){
+    let getContent = meal_get_money[i].innerText;
+    if( getContent === "0"){
+        getContent.style.color = "red";
+    }
 }
 
 
