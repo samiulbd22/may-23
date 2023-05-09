@@ -465,4 +465,10 @@ function previousListShowMe() {
     childFour.classList.add("show-me");
 }
 
+const meal_get_money = document.getElementsByClassName("meal_get_money");
+const getContent = meal_get_money.innerText;
+if(getContent === 0){
+ meal_get_money.style.color = "red";
+}
+
 
