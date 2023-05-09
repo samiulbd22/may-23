@@ -295,6 +295,17 @@ function numberChecker() {
         udoy_paid_bill.innerText = `${udoy_paid}`;
         udoy_get_bill.innerText = `${udoy_get}`;
         udoy_due_bill.innerText = `${udoy_due}`;
+//color
+	const color_get_1 = udoy_get_bill.innerText;
+	const color_due_1 = udoy_due_bill.innerText;
+
+	if(color_get_1 === "0"){
+		udoy_get_bill.style.color = "red";
+	}else{udoy_get_bill.style.color = "green";}
+	if(color_due_1 !== "0"){
+		udoy_due_bill.style.color = "red";
+	}else{udoy_due_bill.style.color = "grey";}
+//color
         //person2//
         const razu = members["01922362569"].name;
         const razu_cost = members["01922362569"].totalMeal * mealRate;
@@ -306,6 +317,17 @@ function numberChecker() {
         razu_paid_bill.innerText = `${razu_paid}`;
         razu_get_bill.innerText = `${razu_get}`;
         razu_due_bill.innerText = `${razu_due}`;
+//color
+	const color_get_2 = razu_get_bill.innerText;
+	const color_due_2 = razu_due_bill.innerText;
+
+	if(color_get_2 === "0"){
+		razu_get_bill.style.color = "red";
+	}else{razu_get_bill.style.color = "green";}
+	if(color_due_2 !== "0"){
+		razu_due_bill.style.color = "red";
+	}else{razu_due_bill.style.color = "grey";}
+//color
         //person3//
         const sony = members["01532023080"].name;
         const sony_cost = members["01532023080"].totalMeal * mealRate;
@@ -317,6 +339,17 @@ function numberChecker() {
         sony_paid_bill.innerText = `${sony_paid}`;
         sony_get_bill.innerText = `${sony_get}`;
         sony_due_bill.innerText = `${sony_due}`;
+//color
+	const color_get_3 = sony_get_bill.innerText;
+	const color_due_3 = sony_due_bill.innerText;
+
+	if(color_get_3 === "0"){
+		sony_get_bill.style.color = "red";
+	}else{sony_get_bill.style.color = "green";}
+	if(color_due_3 !== "0"){
+		sony_due_bill.style.color = "red";
+	}else{sony_due_bill.style.color = "grey";}
+//color
         //person4//
         const maruf = members["01794942131"].name;
         const maruf_cost = members["01794942131"].totalMeal * mealRate;
@@ -328,6 +361,17 @@ function numberChecker() {
         maruf_paid_bill.innerText = `${maruf_paid}`;
         maruf_get_bill.innerText = `${maruf_get}`;
         maruf_due_bill.innerText = `${maruf_due}`;
+//color
+	const color_get_4 = maruf_get_bill.innerText;
+	const color_due_4 = maruf_due_bill.innerText;
+
+	if(color_get_4 === "0"){
+		maruf_get_bill.style.color = "red";
+	}else{maruf_get_bill.style.color = "green";}
+	if(color_due_4 !== "0"){
+		maruf_due_bill.style.color = "red";
+	}else{maruf_due_bill.style.color = "grey";}
+//color
         //person5//
         const amrul = members["01738393696"].name;
         const amrul_cost = members["01738393696"].totalMeal * mealRate;
@@ -339,6 +383,17 @@ function numberChecker() {
         amrul_paid_bill.innerText = `${amrul_paid}`;
         amrul_get_bill.innerText = `${amrul_get}`;
         amrul_due_bill.innerText = `${amrul_due}`;
+//color
+	const color_get_5 = amrul_get_bill.innerText;
+	const color_due_5 = amrul_due_bill.innerText;
+
+	if(color_get_5 === "0"){
+		amrul_get_bill.style.color = "red";
+	}else{amrul_get_bill.style.color = "green";}
+	if(color_due_5 !== "0"){
+		amrul_due_bill.style.color = "red";
+	}else{amrul_due_bill.style.color = "grey";}
+//color
         //person6//
         const masum = members["01925315230"].name;
         const masum_cost = members["01925315230"].totalMeal * mealRate;
@@ -350,6 +405,17 @@ function numberChecker() {
         masum_paid_bill.innerText = `${masum_paid}`;
         masum_get_bill.innerText = `${masum_get}`;
         masum_due_bill.innerText = `${masum_due}`;
+//color
+	const color_get_6 = masum_get_bill.innerText;
+	const color_due_6 = masum_due_bill.innerText;
+
+	if(color_get_6 === "0"){
+		masum_get_bill.style.color = "red";
+	}else{masum_get_bill.style.color = "green";}
+	if(color_due_6 !== "0"){
+		masum_due_bill.style.color = "red";
+	}else{masum_due_bill.style.color = "grey";}
+//color
         //person7//
         const imran = members["01640454889"].name;
         const imran_cost = members["01640454889"].totalMeal * mealRate;
@@ -361,6 +427,17 @@ function numberChecker() {
         imran_paid_bill.innerText = `${imran_paid}`;
         imran_get_bill.innerText = `${imran_get}`;
         imran_due_bill.innerText = `${imran_due}`;
+//color
+	const color_get_7 = imran_get_bill.innerText;
+	const color_due_7 = imran_due_bill.innerText;
+
+	if(color_get_7 === "0"){
+		imran_get_bill.style.color = "red";
+	}else{imran_get_bill.style.color = "green";}
+	if(color_due_7 !== "0"){
+		imran_due_bill.style.color = "red";
+	}else{imran_due_bill.style.color = "grey";}
+//color
         //person8//
         const rubel = members["01922635500"].name;
         const rubel_cost = members["01922635500"].totalMeal * mealRate;
@@ -372,6 +449,17 @@ function numberChecker() {
         rubel_paid_bill.innerText = `${rubel_paid}`;
         rubel_get_bill.innerText = `${rubel_get}`;
         rubel_due_bill.innerText = `${rubel_due}`;
+//color
+	const color_get_8 = rubel_get_bill.innerText;
+	const color_due_8 = rubel_due_bill.innerText;
+
+	if(color_get_8 === "0"){
+		rubel_get_bill.style.color = "red";
+	}else{rubel_get_bill.style.color = "green";}
+	if(color_due_8 !== "0"){
+		rubel_due_bill.style.color = "red";
+	}else{rubel_due_bill.style.color = "grey";}
+//color
         //person8//
         const rikta = members["01400709854"].name;
         const rikta_cost = members["01400709854"].totalMeal * mealRate;
@@ -383,6 +471,17 @@ function numberChecker() {
         rikta_paid_bill.innerText = `${rikta_paid}`;
         rikta_get_bill.innerText = `${rikta_get}`;
         rikta_due_bill.innerText = `${rikta_due}`;
+//color
+	const color_get_9 = rikta_get_bill.innerText;
+	const color_due_9 = rikta_due_bill.innerText;
+
+	if(color_get_9 === "0"){
+		rikta_get_bill.style.color = "red";
+	}else{rikta_get_bill.style.color = "green";}
+	if(color_due_9 !== "0"){
+		rikta_due_bill.style.color = "red";
+	}else{rikta_due_bill.style.color = "grey";}
+//color
 // specific row
         const cellPhone = document.getElementById(`${phoneNumber}`);
         if (cellPhone && phoneNumber){
@@ -465,11 +564,5 @@ function previousListShowMe() {
     childFour.classList.add("show-me");
 }
 
-const meal_get_money = document.getElementsByClassName("meal_get_money");
-
-for(let i = 0; i < meal_get_money.length; i++ ){
-    let getContent = meal_get_money[i].innerText;
-    console.log(typeof getContent);
-}
 
 
