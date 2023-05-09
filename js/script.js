@@ -7,8 +7,8 @@ const members = {
         dueMoney:0,
         totalMeal:10,
         Payable:2770,
-        paid:4500,
-        paid_in_bazar:0
+        paid:4300,
+        paid_in_bazar:1530
     },
     "01640454889":{
         name:"Imran",
@@ -50,9 +50,9 @@ const members = {
         getMoney:0,
         dueMoney:0,
         totalMeal:6,
-        Payable:215,
-        paid:0,
-        paid_in_bazar:0
+        Payable:3570,
+        paid:4785,
+        paid_in_bazar:1215
     },
     "01794942131":{
         name:"Mehedi Hasan Maruf",
@@ -61,8 +61,8 @@ const members = {
         getMoney:0,
         dueMoney:0,
         totalMeal:0,
-        Payable:2254,
-        paid:0,
+        Payable:3570,
+        paid:3246,
         paid_in_bazar:0
 
     },
@@ -73,9 +73,9 @@ const members = {
         getMoney:0,
         dueMoney:0,
         totalMeal:16,
-        Payable:0,
-        paid:0,
-        paid_in_bazar:913
+        Payable:3070,
+        paid:4913,
+        paid_in_bazar:1843
     },
     "01532023080":{
         name:"Sony Hasan",
