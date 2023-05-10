@@ -117,6 +117,7 @@ const members = {
     serviceBill:30,
     monthName:"May-23"
 };
+const title	    = document.querySelector("title");
 const button        = document.getElementById("submit-button");
 const number        = document.getElementById("number-checker");
 const logPage       = document.getElementById("log-page");
@@ -512,7 +513,7 @@ function numberChecker() {
                 warningPage.classList.add("w-animation");
         }
     }
-
+title.innerText = members[monthName];
 
 }
 clickButton.addEventListener("click", calculateMe);
