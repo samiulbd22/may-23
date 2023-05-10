@@ -485,7 +485,7 @@ function numberChecker() {
 // specific row
         const cellPhone = document.getElementById(`${phoneNumber}`);
         if (cellPhone && phoneNumber){
-            cellPhone.style.backgroundColor = "#B3005E";
+            cellPhone.style.backgroundColor = "#93329E";
             cellPhone.style.borderRadius = ".5rem";
             cellPhone.style.borderColor = "#28DF99";
 
