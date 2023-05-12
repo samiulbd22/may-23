@@ -95,8 +95,8 @@ const members = {
         getMoney:0,
         dueMoney:0,
         totalMeal:23,
-        Payable:199,
-        paid:0,
+        Payable:629,
+        paid:1000,
         paid_in_bazar:0
     },
     "01821245430e":{
