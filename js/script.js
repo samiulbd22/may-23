@@ -5,7 +5,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:17,
+        totalMeal:19,
         Payable:2770,
         paid:4300,
         paid_in_bazar:1530
@@ -16,10 +16,10 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:27,
-        Payable:0,
-        paid:0,
-        paid_in_bazar:543
+        totalMeal:31,
+        Payable:2900,
+        paid:5000,
+        paid_in_bazar:2643
     },
     "01925315230":{
         name:"Masum",
@@ -27,10 +27,10 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:16,
-        Payable:433,
-        paid:0,
-        paid_in_bazar:0
+        totalMeal:18,
+        Payable:5503,
+        paid:7250,
+        paid_in_bazar:1747
     },
     "01922362569":{
         name:"Razu",
@@ -49,7 +49,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:15,
+        totalMeal:17,
         Payable:3570,
         paid:4785,
         paid_in_bazar:1215
@@ -60,7 +60,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:0,
+        totalMeal:3,
         Payable:3570,
         paid:3246,
         paid_in_bazar:0
@@ -72,7 +72,7 @@ const members = {
         othersCost:2500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:28,
+        totalMeal:30,
         Payable:3070,
         paid:4913,
         paid_in_bazar:1843
@@ -83,10 +83,10 @@ const members = {
         othersCost:500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:28,
+        totalMeal:33,
         Payable:3570,
-        paid:3000,
-        paid_in_bazar:1737
+        paid:4000,
+        paid_in_bazar:1167
     },
     "01922635500":{
         name:"Rubel Hossain",
@@ -94,10 +94,10 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:27,
+        totalMeal:31,
         Payable:629,
-        paid:1000,
-        paid_in_bazar:0
+        paid:3000,
+        paid_in_bazar:2371
     },
     "01821245430e":{
         name:"Samiul Islam",
@@ -113,7 +113,7 @@ const members = {
 
     khalaBill:400,
     netBill:140,
-    mealRate:55.5,
+    mealRate:51.5,
     serviceBill:30,
     monthName:"May-23"
 };
