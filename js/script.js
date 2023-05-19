@@ -5,7 +5,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:19,
+        totalMeal:24,
         Payable:2770,
         paid:4300,
         paid_in_bazar:1530
@@ -16,7 +16,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:31,
+        totalMeal:35,
         Payable:2900,
         paid:5000,
         paid_in_bazar:2643
@@ -27,7 +27,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:18,
+        totalMeal:23,
         Payable:5503,
         paid:7250,
         paid_in_bazar:1747
@@ -38,7 +38,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:14,
+        totalMeal:17,
         Payable:0,
         paid:0,
         paid_in_bazar:179
@@ -49,7 +49,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:17,
+        totalMeal:21,
         Payable:3570,
         paid:4785,
         paid_in_bazar:1215
@@ -60,7 +60,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:3,
+        totalMeal:9,
         Payable:3570,
         paid:3246,
         paid_in_bazar:0
@@ -72,7 +72,7 @@ const members = {
         othersCost:2500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:30,
+        totalMeal:37,
         Payable:3070,
         paid:4913,
         paid_in_bazar:1843
@@ -83,7 +83,7 @@ const members = {
         othersCost:500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:33,
+        totalMeal:39,
         Payable:3570,
         paid:4000,
         paid_in_bazar:1167
@@ -94,7 +94,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:31,
+        totalMeal:37,
         Payable:629,
         paid:3000,
         paid_in_bazar:2371
