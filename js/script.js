@@ -6,8 +6,8 @@ const members = {
         getMoney:0,
         dueMoney:0,
         totalMeal:24,
-        Payable:2770,
-        paid:4300,
+        Payable:2970,
+        paid:4500,
         paid_in_bazar:1530
     },
     "01640454889":{
@@ -38,9 +38,9 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:17,
-        Payable:0,
-        paid:0,
+        totalMeal:18,
+        Payable:2570,
+        paid:2000,
         paid_in_bazar:179
     },
     "01738393696":{
@@ -49,9 +49,9 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:21,
-        Payable:3570,
-        paid:4785,
+        totalMeal:23,
+        Payable:3785,
+        paid:5000,
         paid_in_bazar:1215
     },
     "01794942131":{
@@ -61,9 +61,9 @@ const members = {
         getMoney:0,
         dueMoney:0,
         totalMeal:9,
-        Payable:3570,
-        paid:3246,
-        paid_in_bazar:0
+        Payable:5824,
+        paid:6000,
+        paid_in_bazar:176
 
     },
     "01400709854":{
