@@ -18,7 +18,7 @@ const members = {
         dueMoney:0,
         totalMeal:35,
         Payable:2900,
-        paid:5000,
+        paid:5543,
         paid_in_bazar:2643
     },
     "01925315230":{
@@ -85,7 +85,7 @@ const members = {
         dueMoney:0,
         totalMeal:41,
         Payable:3570,
-        paid:5000,
+        paid:5737,
         paid_in_bazar:2167
     },
     "01922635500":{
