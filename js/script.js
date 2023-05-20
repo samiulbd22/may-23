@@ -230,7 +230,7 @@ function numberChecker() {
         (phoneNumber === "01814843266") ||
         (phoneNumber === "01922362569") ||
         (phoneNumber === "01532023080") ||
-        (phoneNumber === "01821245430") ||
+        (phoneNumber === "01821245430e") ||
         (phoneNumber === "01738393696") ||
         (phoneNumber === "01794942131") ||
         (phoneNumber === "01640454889") ||
