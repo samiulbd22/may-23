@@ -60,7 +60,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:9,
+        totalMeal:11,
         Payable:5824,
         paid:6000,
         paid_in_bazar:176
@@ -72,7 +72,7 @@ const members = {
         othersCost:2500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:37,
+        totalMeal:39,
         Payable:3070,
         paid:4913,
         paid_in_bazar:1843
@@ -83,10 +83,10 @@ const members = {
         othersCost:500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:39,
+        totalMeal:41,
         Payable:3570,
-        paid:4000,
-        paid_in_bazar:1167
+        paid:5000,
+        paid_in_bazar:2167
     },
     "01922635500":{
         name:"Rubel Hossain",
@@ -94,7 +94,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:37,
+        totalMeal:39,
         Payable:629,
         paid:3000,
         paid_in_bazar:2371
