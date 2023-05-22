@@ -40,8 +40,8 @@ const members = {
         dueMoney:0,
         totalMeal:20,
         Payable:2570,
-        paid:2000,
-        paid_in_bazar:179
+        paid:2679,
+        paid_in_bazar:109
     },
     "01738393696":{
         name:"Amrul Qais",
