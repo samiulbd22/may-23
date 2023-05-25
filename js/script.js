@@ -85,8 +85,8 @@ const members = {
         dueMoney:0,
         totalMeal:48,
         Payable:3570,
-        paid:5737,
-        paid_in_bazar:2167
+        paid:6237,
+        paid_in_bazar:2667
     },
     "01922635500":{
         name:"Rubel Hossain",
