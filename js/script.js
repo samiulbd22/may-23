@@ -5,7 +5,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:33,
+        totalMeal:35,
         Payable:2970,
         paid:4500,
         paid_in_bazar:1530
@@ -16,7 +16,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:49,
+        totalMeal:52,
         Payable:2900,
         paid:5543,
         paid_in_bazar:2643
@@ -27,7 +27,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:30,
+        totalMeal:32,
         Payable:5503,
         paid:7250,
         paid_in_bazar:1747
@@ -38,10 +38,10 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:25,
+        totalMeal:27,
         Payable:2570,
-        paid:2679,
-        paid_in_bazar:109
+        paid:3679,
+        paid_in_bazar:1109
     },
     "01738393696":{
         name:"Amrul Qais",
@@ -49,7 +49,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:31,
+        totalMeal:33,
         Payable:3785,
         paid:5000,
         paid_in_bazar:1215
@@ -60,7 +60,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:24,
+        totalMeal:28,
         Payable:5824,
         paid:6000,
         paid_in_bazar:176
@@ -72,10 +72,10 @@ const members = {
         othersCost:2500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:47,
+        totalMeal:49,
         Payable:3070,
-        paid:4913,
-        paid_in_bazar:1843
+        paid:6413,
+        paid_in_bazar:3343
     },
     "01532023080":{
         name:"Sony Hasan",
@@ -83,7 +83,7 @@ const members = {
         othersCost:500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:50,
+        totalMeal:54,
         Payable:3570,
         paid:6237,
         paid_in_bazar:2667
@@ -94,7 +94,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:50,
+        totalMeal:54,
         Payable:629,
         paid:3000,
         paid_in_bazar:2371
