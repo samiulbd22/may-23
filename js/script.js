@@ -5,7 +5,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:35,
+        totalMeal:39,
         Payable:2970,
         paid:4500,
         paid_in_bazar:1530
@@ -16,7 +16,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:52,
+        totalMeal:56,
         Payable:2900,
         paid:5543,
         paid_in_bazar:2643
@@ -27,7 +27,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:32,
+        totalMeal:34,
         Payable:5503,
         paid:7250,
         paid_in_bazar:1747
@@ -38,7 +38,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:27,
+        totalMeal:29,
         Payable:2570,
         paid:3679,
         paid_in_bazar:1109
@@ -49,7 +49,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:33,
+        totalMeal:35,
         Payable:3785,
         paid:5000,
         paid_in_bazar:1215
@@ -60,7 +60,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:28,
+        totalMeal:32,
         Payable:5824,
         paid:6000,
         paid_in_bazar:176
@@ -72,7 +72,7 @@ const members = {
         othersCost:2500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:49,
+        totalMeal:53,
         Payable:3070,
         paid:6413,
         paid_in_bazar:3343
@@ -83,7 +83,7 @@ const members = {
         othersCost:500,
         getMoney:0,
         dueMoney:0,
-        totalMeal:54,
+        totalMeal:58,
         Payable:3570,
         paid:6237,
         paid_in_bazar:2667
@@ -94,7 +94,7 @@ const members = {
         othersCost:0,
         getMoney:0,
         dueMoney:0,
-        totalMeal:54,
+        totalMeal:56,
         Payable:629,
         paid:3000,
         paid_in_bazar:2371
@@ -113,7 +113,7 @@ const members = {
 
     khalaBill:400,
     netBill:140,
-    mealRate:50.5,
+    mealRate:47.96,
     serviceBill:30,
     monthName:"May-23"
 };
