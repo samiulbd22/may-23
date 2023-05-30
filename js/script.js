@@ -113,7 +113,7 @@ const members = {
 
     khalaBill:400,
     netBill:140,
-    mealRate:47.96,
+    mealRate:48,
     serviceBill:30,
     monthName:"May-23"
 };
